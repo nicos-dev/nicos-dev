@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nicos-dev
 - 👀 I’m interested in Spring-Boot, Kotlin, Angular and Keycloak
-- 🌱 I’m currently learning Product-Management
 
 <!---
 nicos-dev/nicos-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
